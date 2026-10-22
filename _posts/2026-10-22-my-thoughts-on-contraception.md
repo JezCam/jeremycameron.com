@@ -46,7 +46,7 @@ But we all lack the natural ability to cause a pregnancy. We can all start the p
 
 While we lack the ability to choose to create new life, we don't lack the ability to choose to **not** create new life. That choice on its own isn't a concern to me, or anyone for that matter. In fact, it can be a very wise choice. A young man who abstains from sex is making it all the time. Is it always wrong, then, for a married couple to choose not to create new life? No, it's not. So what is different about contraception?
 
-To answer that I want to describe what intercourse actually is. Every time a husband and wife have intercourse, the question of new life is asked. I don't mean that as an analogy or just a nice way of putting it. Intercourse opens up the possibility of a child, and nothing in the act itself settles whether that child will come. It's left open, waiting for an answer. Calling it a question is just giving a name to what's already true.
+To answer that, I want to propose that a certain question is asked through intercourse. Every time a husband and wife have intercourse, the question of new life is asked. I don't mean that as an analogy or just a nice way of putting it. Intercourse opens up the possibility of a child, and nothing in the act itself settles whether that child will come. It's left open, waiting for an answer. Calling it a question is just giving a name to what's already true.
 
 If that's right, then a couple can only ever do one of three things with the question.
 
