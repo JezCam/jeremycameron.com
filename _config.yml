@@ -1,0 +1,9 @@
+title: Jeremy Cameron
+description: Writing on theology, the Christian life, and occasionally code.
+url: "https://jeremycameron.com"
+baseurl: ""
+permalink: /:year/:month/:title/
+markdown: kramdown
+timezone: Australia/Melbourne
+exclude:
+  - README.md
