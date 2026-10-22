@@ -17,17 +17,15 @@ Whether you are a Calvinist or not, Christians generally all agree that it is Go
 
 When I speak of God's choice, I am not simply speaking of his determining all things, but of his active will, as opposed to his passive or permissive will. Some would argue that God determines all things and I would agree. But he does so either by actively causing an event or by permitting it. In the case of new life, I am arguing that God actively causes it. He doesn't just allow a child to be conceived, he knits that child together.
 
-## We cannot choose to conceive
-
-This means that we cannot choose to conceive. We can choose to have intercourse in the hope of conceiving, or with the desire to, but it is God alone who determines new life. Many people hope not to conceive, use every form of contraception available, and conceive anyway, because God determines it. And many people hope and pray to conceive for years and they don't, because God determines it. I'm not claiming that God caused anyone's miscarriage, my focus here is on God creating new life.
+So if it's God who decides whether a child is conceived, what exactly are we doing when we use contraception?
 
 ## The argument
 
-I would argue that contraception is not the best that we can do as Christians. I'm not arguing that it is inherently sinful, unless of course it's a form of contraception that terminates an early pregnancy. I believe that contraception is at best unnecessary and at worst unwise.
+I would argue that contraception is not the best that we can do as Christians. I believe that contraception is at best unnecessary and at worst unwise.
 
-I also want to be clear that I'm not accusing anyone who uses it. Many couples choose contraception without ever having thought about it this way, and a choice made in ignorance isn't necessarily sinful. Neither am I being a legalist. I'm not claiming that God has given some law against contraception, or that a couple who uses it is breaking a positive command and sinning.
+I'm not arguing that it is inherently sinful, unless of course it's a form of contraception that terminates an early pregnancy. Neither am I being a legalist. I'm not claiming that God has given some law against contraception, or that a couple who uses it is breaking a positive command and sinning. And I'm not accusing anyone who uses it. Many couples choose contraception without ever having thought about it this way, and a choice made in ignorance isn't necessarily sinful.
 
-My claim is that if we as Christians are aiming for the ideal, then the best decision, at least normatively, is to not use contraception. By normatively I mean the ordinary case of a married couple who don't have the kind of complications I'll come to at the end. Contraception falls short of that ideal because it isn't born of a focus on, and trust in, God's will. I'm arguing for the ideal, not condemning anyone who hasn't reached it. My argument goes as follows:
+My claim is that if we as Christians are aiming for the ideal, then the best decision, at least normatively, is to not use contraception. By normatively I mean the ordinary case of a married couple who don't have the kind of complications I'll come to at the end. Contraception falls short of that ideal because it isn't born of a focus on, and trust in, God's will. My argument goes as follows:
 
 - **First premise:** God makes better choices for us than we do for ourselves.
 - **Second premise:** In the matter of conception, we can guarantee God's choice over our own by not using contraception.
@@ -38,9 +36,9 @@ Most Christians will happily grant the first premise. The key is in the second.
 
 ## Why conception is different
 
-In the matter of conception, we can guarantee God's active will over our own. This isn't the case in every matter of choice. For example, I cannot infallibly discern God's active will in whether to marry a particular person, or which job I should apply for, or whether to get in my car this morning. I'm a human with limited wisdom and I don't have a direct, unfiltered connection to God's will at any point. These are all things that I have the natural ability to cause, and so I should always seek God's counsel on them.
+Why should conception be any different from the other choices we make? In the matter of conception, we can guarantee God's active will over our own. This isn't the case in every matter of choice. For example, I cannot infallibly discern God's active will in whether to marry a particular person, or which job I should apply for, or whether to get in my car this morning. I'm a human with limited wisdom and I don't have a direct, unfiltered connection to God's will at any point. These are all things that I have the natural ability to cause, and so I should always seek God's counsel on them.
 
-But we all lack the natural ability to cause a pregnancy. We can all start the process, but we can't make a meaningful choice that guarantees the result of that process, we can only hope or desire for an outcome. So here the choice is already in God's hands, and the only thing left to us is whether we leave it there.
+But we all lack the natural ability to cause a pregnancy. We can all start the process, but we can't make a meaningful choice that guarantees the result of that process, we can only hope or desire for an outcome. Many people hope not to conceive, use every form of contraception available, and conceive anyway, because God determines it. And many people hope and pray to conceive for years and they don't, because God determines it. I'm not claiming that God caused anyone's miscarriage, my focus here is on God creating new life. So here the choice is already in God's hands, and the only thing left to us is whether we leave it there.
 
 ## The question of new life
 
@@ -70,13 +68,21 @@ In fact, contraception itself proves the point. Why would anyone go to the effor
 
 As Christians, we know that this question is better answered by God, that's the first premise. And we know that God will answer it if we let him, that's the second. So trust in his answer, let him answer.
 
-## Where I'm less sure
+## Saying no to a blessing
 
-I'm admittedly less sure of what the best choice is when pregnancy carries a real health risk. Think of a woman who has already had the recommended maximum number of c-sections, or who faces some other severe risk if she conceives again. In cases like these I believe the life of the mother is actually worth protecting over potential lives that haven't been created yet, and that's especially true if she has children who need her to be their mother and to care for them. I also don't support extended abstinence between a husband and wife. Paul tells them not to deprive one another, except by agreement for a limited time (1 Corinthians 7:5), and sex is really good, it's meant to be enjoyed in marriage. So I can conceive (pun intended) of some form of contraception being appropriate here. I don't know exactly where the lines fall in these cases yet, and I'm open to learning more about them.
+That's why I think contraception is unnecessary. But I think there's also a reason it can be unwise, and it's that Scripture is explicit that children are a blessing from the Lord.
+
+> "Children are a heritage from the LORD, offspring a reward from him."
+> <cite>Psalm 127:3</cite>
+{: .verse}
+
+The very first blessing God spoke over humanity was "Be fruitful and increase in number" (Genesis 1:28). Where else, as Christians, would we posture ourselves against receiving a blessing from the Lord? I can't think of any other case. That doesn't mean we have to seek out every blessing. Again, this isn't about whether a couple ought to have sex and try for children. It's about whether, once the question has been asked, we ought to answer it ourselves with no. To do something God ordinarily blesses, and then put something in place that says, "No, God, you can't bless me in this," just seems out of place in the Christian life. I think we should always be open to a blessing from the Lord.
+
+I think this has a lot to say about marriage too. If you're not ready to have children, I don't think you should get married. That might sound strong, but getting married means you'll be having sex. Paul is clear that a husband and wife shouldn't deprive one another, except by agreement for a limited time (1 Corinthians 7:5), and if sex is part of marriage, then so is the possibility of a child. So when a Christian decides to get married, that should also be a decision to be open to children, and the two really go hand in hand. That means the questions about money, and about whether we're ready, and whether we could provide for a child, are really questions to think through before we get married, as part of deciding whether we're ready for marriage at all. They're conditions for marriage more than they are conditions for children. I'm talking about the normal case here, of course. A couple who know they can't conceive, because of infertility or some other reason, are in a different situation.
 
 ## On not feeling ready
 
-One last thought. I suspect one of the most common reasons married couples use contraception is that they don't feel ready. (If you're not married, you're not ready, and that's what abstinence is for.) There might be a worry that a child would be bad for them right now, or bad for the child, or that the money just isn't there. I don't want to dismiss those concerns, they're real.
+Even so, I suspect one of the most common reasons married couples use contraception is that they don't feel ready. There might be a worry that a child would be bad for them right now, or bad for the child, or that the money just isn't there. I don't want to dismiss those concerns, they're real.
 
 But I think it's worth being honest about what's underneath them. It's easy for something that feels like careful wisdom to actually be fear, or a quiet doubt that God will provide if he does answer yes. From the inside those can look much the same. David's prayer seems like a good one here: "Search me, God, and know my heart; test me and know my anxious thoughts" (Psalm 139:23).
 
@@ -94,26 +100,26 @@ Nor does it come down to our own strength. Paul says God "will not let you be te
 > <cite>2 Corinthians 12:9</cite>
 {: .verse}
 
-So what is it that we're really afraid of? I don't think it's usually money or health. Far more often I hear couples say they just want to enjoy life for a little while before they have kids. They want to go out to a nice restaurant, or go on a holiday, without having to find a babysitter first. I understand that, but notice what it assumes. The child is the thing standing between the couple and their enjoyment of life. Whether anyone means it or not, that reasoning labels children as a burden rather than the blessing Scripture says they are (Psalm 127:3-5).
-
-I think this is where the fear and anxiety really sit. It isn't so much fear for the child, that we wouldn't be able to provide for them, as fear of losing the life we had before one. It's common enough that people talk about mourning after having children, grieving the life they had before they were wrapped up in the responsibility of looking after someone else. When you put it plainly, the fear is that we'll have to serve, which is a strange thing for a follower of Christ to be afraid of.
-
-I think this is very difficult to defend for the Christian. We're never supposed to presuppose that life is about us being served. Christ himself "came not to be served but to serve" (Mark 10:45), and we're called to follow him. So a Christian should accept, and even feel privileged at, the opportunity to serve, and should see and invite every opportunity to do it. Having children is one of the greatest ways a husband and wife can serve in a marriage.
-
-In fact, I think this points to something bigger. Marriage is, normatively, the first step towards having children, so when a Christian decides to get married, I think that should also be a decision to be open to children. The two really go hand in hand. That means the questions about money, and about whether we're ready, and whether we could provide for a child, are really questions to think through before we get married, as part of deciding whether we're ready for marriage at all. They're conditions for marriage more than they are conditions for children.
-
 I also find it encouraging how many of the lives God has used were never planned by their parents. Sarah laughed at the idea of Isaac (Genesis 18:12). Zechariah couldn't believe the news of John the Baptist (Luke 1:18). Perez and Solomon both came out of situations nobody would have chosen, and both are named in the line of Jesus (Matthew 1:3, 6). Plenty of us were surprises to our own parents too. God's purposes don't wait on our intentions, and they don't fail because of them either.
 
 > "Many are the plans in a person's heart, but it is the LORD's purpose that prevails."
 > <cite>Proverbs 19:21</cite>
 {: .verse}
 
-There's one more thing that weighs on me here. Scripture is explicit that children are a blessing from the Lord.
+So what is it that we're really afraid of? I don't think it's usually money or health. Far more often I hear couples say they just want to enjoy life for a little while before they have kids. They want to go out to a nice restaurant, or go on a holiday, without having to find a babysitter first. I understand that, but notice what it assumes. The child is the thing standing between the couple and their enjoyment of life. Whether anyone means it or not, that reasoning labels children as a burden rather than the blessing Scripture says they are (Psalm 127:3-5).
 
-> "Children are a heritage from the LORD, offspring a reward from him."
-> <cite>Psalm 127:3</cite>
-{: .verse}
+I think this is where the fear and anxiety really sit. It isn't so much fear for the child, that we wouldn't be able to provide for them, as fear of losing the life we had before one. It's common enough that people talk about mourning after having children, grieving the life they had before they were wrapped up in the responsibility of looking after someone else. When you put it plainly, the fear is that we'll have to serve, which is a strange thing for a follower of Christ to be afraid of.
 
-The very first blessing God spoke over humanity was "Be fruitful and increase in number" (Genesis 1:28). I can't think of any other case where, as Christians, we'd posture ourselves against receiving a blessing from the Lord. That doesn't mean we have to seek out every blessing. Again, this isn't about whether a couple ought to have sex and try for children. It's about whether, once the question has been asked, we ought to answer it ourselves with no. To do something God ordinarily blesses, and then put something in place that says, "No, God, you can't bless me in this," just seems out of place in the Christian life. I think we should always be open to a blessing from the Lord.
+I think this is very difficult to defend for the Christian. We're never supposed to presuppose that life is about us being served. Christ himself "came not to be served but to serve" (Mark 10:45), and we're called to follow him. So a Christian should accept, and even feel privileged at, the opportunity to serve, and should see and invite every opportunity to do it. Having children is one of the greatest ways a husband and wife can serve in a marriage.
 
 So I don't think not feeling ready is, on its own, a good reason to answer the question ourselves. I'd rather be honest about the fears, bring them to God (1 Peter 5:7), and trust him with the answer.
+
+## Where I'm less sure
+
+I'm admittedly less sure of what the best choice is when pregnancy carries a real health risk. Think of a woman who has already had the recommended maximum number of c-sections, or who faces some other severe risk if she conceives again. In cases like these I believe the life of the mother is actually worth protecting over potential lives that haven't been created yet, and that's especially true if she has children who need her to be their mother and to care for them.
+
+But I also don't support extended abstinence between a husband and wife. As I mentioned earlier, Paul tells them not to deprive one another, except by agreement for a limited time (1 Corinthians 7:5), and sex is really good, it's meant to be enjoyed in marriage. So I can conceive (pun intended) of some form of contraception being appropriate here. I don't know exactly where the lines fall in these cases yet, and I'm open to learning more about them.
+
+## Letting God answer
+
+Outside of cases like those, for an ordinary married couple, I keep coming back to the same place. Every time a husband and wife come together, the question of new life is asked, and God is both better able to answer it than we are and willing to answer it if we let him. Children are a blessing from him, and he's promised to provide what we need when he gives one. So I'd rather leave the question with him, and let him answer.
