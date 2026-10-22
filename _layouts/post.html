@@ -1,14 +1,33 @@
 ---
 layout: default
 ---
+{%- assign words = content | strip_html | number_of_words -%}
+{%- assign minutes = words | plus: 199 | divided_by: 200 -%}
+{%- if words >= 1000 -%}
+  {%- assign thousands = words | divided_by: 1000 -%}
+  {%- assign rest = words | modulo: 1000 | prepend: '00' | slice: -3, 3 -%}
+  {%- assign words_label = thousands | append: ',' | append: rest -%}
+{%- else -%}
+  {%- assign words_label = words -%}
+{%- endif -%}
+<div class="progress" aria-hidden="true"><div class="progress-bar"></div></div>
 <article class="post">
   <header class="post-header">
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B %Y' }}</time>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B %Y' }}</time>
+      <span aria-hidden="true">&middot;</span> {{ words_label }} words
+      <span aria-hidden="true">&middot;</span> {{ minutes }} min read
+    </p>
   </header>
+  <nav class="toc" aria-label="Contents" hidden>
+    <p class="toc-title">Contents</p>
+    <ol></ol>
+  </nav>
   <div class="post-body">
     {{ content }}
   </div>
   <p class="back"><a href="{{ '/' | relative_url }}">&larr; All posts</a></p>
 </article>
+<script src="{{ '/assets/post.js' | relative_url }}" defer></script>

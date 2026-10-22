@@ -66,7 +66,7 @@ h2 { font-size: 1.35rem; margin: 2.75rem 0 0.75rem; }
 }
 .post-list a { text-decoration: none; font-size: 1.2rem; }
 .post-list a:hover { text-decoration: underline; }
-.post-list time, .post-header time {
+.post-list time, .post-meta {
   font-family: var(--sans);
   font-size: 0.85rem;
   color: var(--muted);
@@ -75,6 +75,65 @@ h2 { font-size: 1.35rem; margin: 2.75rem 0 0.75rem; }
 
 .post-header { margin-bottom: 2.5rem; }
 .subtitle { font-style: italic; color: var(--muted); margin: 0 0 0.75rem; font-size: 1.2rem; }
+.post-meta { margin: 0; white-space: normal; }
+.post-meta span { margin: 0 0.35em; }
+
+.progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  z-index: 10;
+}
+.progress-bar {
+  height: 100%;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+}
+
+.toc { display: none; }
+@media (min-width: 76rem) {
+  .toc:not([hidden]) {
+    display: block;
+    position: fixed;
+    top: 9rem;
+    left: calc(50% - 20rem - 16rem);
+    width: 13rem;
+    max-height: calc(100vh - 12rem);
+    overflow-y: auto;
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+}
+.toc-title {
+  margin: 0 0 0.75rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+.toc ol { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--rule); }
+.toc li + li { margin-top: 0.15rem; }
+.toc a {
+  display: block;
+  margin-left: -1px;
+  padding: 0.25rem 0 0.25rem 0.9rem;
+  border-left: 2px solid transparent;
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 150ms ease, border-color 150ms ease;
+}
+.toc a:hover { color: var(--text); }
+.toc a[aria-current] { color: var(--text); border-left-color: var(--accent); }
+.post-body h2 { scroll-margin-top: 2rem; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .toc a { transition: none; }
+}
 .post-body p { margin: 0 0 1.25rem; }
 .post-body blockquote {
   margin: 1.5rem 0;
