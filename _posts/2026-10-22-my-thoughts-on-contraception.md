@@ -80,6 +80,12 @@ One last thought. I suspect one of the most common reasons married couples use c
 
 But I think it's worth being honest about what's underneath them. It's easy for something that feels like careful wisdom to actually be fear, or a quiet doubt that God will provide if he does answer yes. From the inside those can look much the same. David's prayer seems like a good one here: "Search me, God, and know my heart; test me and know my anxious thoughts" (Psalm 139:23).
 
+But fear isn't the only motivation, and I don't think it's even the most common one. Far more often I hear couples say they just want to enjoy life for a little while before they have kids. They want to go out to a nice restaurant, or go on a holiday, without having to find a babysitter first. I understand that, but notice what it assumes. The child is the thing standing between the couple and their enjoyment of life. Whether anyone means it or not, that reasoning labels children as a burden rather than the blessing Scripture says they are (Psalm 127:3-5).
+
+Maybe this is where the fear and anxiety really sit. It isn't so much fear of a child as fear of losing the life you had before one. It's common enough that people talk about mourning after having children, grieving the life they had before they were wrapped up in the responsibility of looking after someone else.
+
+I think this is very difficult to defend for the Christian. We're never supposed to presuppose that life is about us being served. Christ himself "came not to be served but to serve" (Mark 10:45), and we're called to follow him. So a Christian should accept, and even feel privileged at, the opportunity to serve, and should see and invite every opportunity to do it. Having children is one of the greatest ways a husband and wife can serve in a marriage.
+
 Scripture seems pretty clear that we don't need to worry about provision.
 
 > "So do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?' For the pagans run after all these things, and your heavenly Father knows that you need them. But seek first his kingdom and his righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself."
