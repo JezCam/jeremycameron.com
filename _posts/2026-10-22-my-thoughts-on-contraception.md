@@ -50,7 +50,7 @@ To answer that, I want to propose that a certain question is asked through inter
 
 If that's right, then a couple can only ever do one of three things with the question.
 
-They can not ask it. That's abstinence, whether you're married or not. When the question is never asked, the answer is always no, and you can be sure you're in agreement with God's active will, at least in the answer, because God won't answer yes to a question nobody asked, unless you're the Virgin Mary. "You do not have, because you do not ask" (James 4:2). That isn't to say that not asking is always right, because it could be done out of fear or anxiety. But it isn't inherently wrong.
+They can not ask it. That's abstinence, whether you're married or not. When the question is never asked, the answer is always no, and you can be sure you're in agreement with God's active will, at least in the answer, because God won't answer yes to a question nobody asked. Well, there was that one time with Mary... anyway. "You do not have, because you do not ask" (James 4:2). That isn't to say that not asking is always right, because it could be done out of fear or anxiety. But it isn't inherently wrong.
 
 They can ask it and let God answer. That's intercourse without contraception. The couple might hope for one answer or the other, but they leave the answer with the one who knits children together in the womb.
 
