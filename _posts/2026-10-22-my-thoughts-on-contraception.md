@@ -73,3 +73,39 @@ As Christians, we know that this question is better answered by God, that's the 
 ## Where I'm less sure
 
 I'm admittedly less sure of what the best choice is when pregnancy carries a real health risk. Think of a woman who has already had the recommended maximum number of c-sections, or who faces some other severe risk if she conceives again. In cases like these I believe the life of the mother is actually worth protecting over potential lives that haven't been created yet, and that's especially true if she has children who need her to be their mother and to care for them. I also don't support extended abstinence between a husband and wife. Paul tells them not to deprive one another, except by agreement for a limited time (1 Corinthians 7:5), and sex is really good, it's meant to be enjoyed in marriage. So I can conceive (pun intended) of some form of contraception being appropriate here. I don't know exactly where the lines fall in these cases yet, and I'm open to learning more about them.
+
+## On not feeling ready
+
+One last thought. I suspect one of the most common reasons married couples use contraception is that they don't feel ready. (If you're not married, you're not ready, and that's what abstinence is for.) There might be a worry that a child would be bad for them right now, or bad for the child, or that the money just isn't there. I don't want to dismiss those concerns, they're real.
+
+But I think it's worth being honest about what's underneath them. It's easy for something that feels like careful wisdom to actually be fear, or a quiet doubt that God will provide if he does answer yes. From the inside those can look much the same. David's prayer seems like a good one here: "Search me, God, and know my heart; test me and know my anxious thoughts" (Psalm 139:23).
+
+Scripture seems pretty clear that we don't need to worry about provision.
+
+> "So do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?' For the pagans run after all these things, and your heavenly Father knows that you need them. But seek first his kingdom and his righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself."
+> <cite>Matthew 6:31-34</cite>
+{: .verse}
+
+That doesn't mean life will be easy. But I think it does mean that if God answers yes, he won't leave a couple without what they need (Philippians 4:19).
+
+Nor does it come down to our own strength. Paul says God "will not let you be tempted beyond what you can bear" (1 Corinthians 10:13), and I'd count the temptation to take the answer back into our own hands as one of those. The strength to endure was never meant to be ours anyway.
+
+> "My grace is sufficient for you, for my power is made perfect in weakness."
+> <cite>2 Corinthians 12:9</cite>
+{: .verse}
+
+I also find it encouraging how many of the lives God has used were never planned by their parents. Sarah laughed at the idea of Isaac (Genesis 18:12). Zechariah couldn't believe the news of John the Baptist (Luke 1:18). Perez and Solomon both came out of situations nobody would have chosen, and both are named in the line of Jesus (Matthew 1:3, 6). Plenty of us were surprises to our own parents too. God's purposes don't wait on our intentions, and they don't fail because of them either.
+
+> "Many are the plans in a person's heart, but it is the LORD's purpose that prevails."
+> <cite>Proverbs 19:21</cite>
+{: .verse}
+
+There's one more thing that weighs on me here. Scripture is explicit that children are a blessing from the Lord.
+
+> "Children are a heritage from the LORD, offspring a reward from him."
+> <cite>Psalm 127:3</cite>
+{: .verse}
+
+The very first blessing God spoke over humanity was "Be fruitful and increase in number" (Genesis 1:28). I can't think of any other case where, as Christians, we'd posture ourselves against receiving a blessing from the Lord. That doesn't mean we have to seek out every blessing. Again, this isn't about whether a couple ought to have sex and try for children. It's about whether, once the question has been asked, we ought to answer it ourselves with no. To do something God ordinarily blesses, and then put something in place that says, "No, God, you can't bless me in this," just seems out of place in the Christian life. I think we should always be open to a blessing from the Lord.
+
+So I don't think not feeling ready is, on its own, a good reason to answer the question ourselves. I'd rather be honest about the fears, bring them to God (1 Peter 5:7), and trust him with the answer.
